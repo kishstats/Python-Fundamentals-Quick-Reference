@@ -8,3 +8,6 @@
 
 3. Python Functions
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/3_PythonFunctions.md
+
+4. Python Lists
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/4_PythonLists.md
