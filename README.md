@@ -11,3 +11,6 @@
 
 4. Python Lists
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/4_PythonLists.md
+
+5. Python Tuples
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/5_PythonTuples.md
