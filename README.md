@@ -17,3 +17,6 @@
 
 ### 6. Python Sets
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/6_PythonSets.md  
+
+### 6. Python Dictionaries
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/6_PythonDictionaries.md  
