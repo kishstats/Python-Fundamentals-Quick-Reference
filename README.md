@@ -26,3 +26,6 @@
 
 ### 9. Python Iterators and Generators
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/9_PythonIteratorsGenerators.md    
+
+### 10. Python Classes
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/10_PythonClasses.md    
