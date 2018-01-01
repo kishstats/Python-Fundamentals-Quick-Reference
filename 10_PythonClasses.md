@@ -61,7 +61,6 @@ class OffensivePlayer(Player):
 
 
 player = OffensivePlayer('russell', 'wilson', 4500, 550, 0)
-# print(player)
 print(player.lname)  # wilson
 # print(player.full_name())  # changed to property, will result in TypeError
 print(player.full_name)  # russell wilson
@@ -69,14 +68,12 @@ print(player.full_name)  # russell wilson
 print(player.__dict__)  # {'fname': 'russell', 'lname': 'wilson', 'passing_yards': 4500, 'rushing_yards': 550, 'receiving_yards': 0}
 
 player2 = OffensivePlayer('dez', 'bryant', 0, 40, 1200)
-# print(player2)
 print(player2.lname)  # bryant
 print(player2.full_name)  # dez bryant
 print(player2.receiving_yards)  # 1200
 print(player2.league)  # NFL
 
 player3 = DefensivePlayer('Kahlil', 'Mack', 110, 1, 10)
-# print(player3)
 print(player3.lname)  # Mack
 print(player3.full_name)  # Kahlil Mack
 print(player3.tackles)  # 110
@@ -85,7 +82,6 @@ print(player3.tackles)  # 110
 OffensivePlayer.change_league('NCAA')
 
 rookie = OffensivePlayer('joe', 'rookie', receiving_yards=55)
-# print(rookie)
 print(rookie.lname)  # rookie
 print(rookie.full_name)  # joe rookie
 print(rookie.receiving_yards)  # 55
@@ -96,8 +92,6 @@ print(rookie.get_positions())  # ['quarterback', 'running back', 'wide receiver'
 
 
 # Magic Methods
-print("----")
-# print(player)
 print(player.__dict__)  # {'fname': 'russell', 'lname': 'wilson', 'passing_yards': 4500, 'rushing_yards': 550, 'receiving_yards': 0}
 print(str(player))  # {'fname': 'russell', 'lname': 'wilson', 'passing_yards': 4500, 'rushing_yards': 550, 'receiving_yards': 0}
 print(repr(player))  # OffensivePlayer("russell", "wilson", 4500, 550, 0)
