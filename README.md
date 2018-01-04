@@ -33,3 +33,7 @@
 ### 11. Python Files
   * Reading, writing, and appending to files
     * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/11_PythonFiles.md    
+
+### 12. Python File System
+  * Creating and Searching Files and Folders
+    * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/12_PythonFileSystem.md    
