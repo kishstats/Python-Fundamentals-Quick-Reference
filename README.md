@@ -36,4 +36,7 @@
 
 ### 12. Python File System
   * Creating and Searching Files and Folders
-    * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/12_PythonFileSystem.md    
+    * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/12_PythonFileSystem.md   
+
+### 13. Python Regular Expressions
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/13_PythonRegularExpressions.md
