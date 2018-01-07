@@ -1,4 +1,4 @@
-# Python Regular Expressions 
+# Python Regular Expressions
 
 ```python
 import re
@@ -116,6 +116,8 @@ company_names = [stock['Company Name'] for stock in stocks]
 print(company_names)
 
 
+# simplified for demonstration only 
+# not recommended for use in production
 REALLY_SIMPLE_URL_PATTERN = "(?:https?|ftp)://(?:[A-Za-z0-9.\/\-\#=&\?]+)"
 
 # <a href="https://google.com" id="an_id" rel="a_rel">google</a>
