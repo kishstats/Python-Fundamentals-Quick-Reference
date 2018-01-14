@@ -40,3 +40,6 @@
 
 ### 13. Python Regular Expressions
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/13_PythonRegularExpressions.md
+
+### 14. Python Logging
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/14_PythonLogging.md
