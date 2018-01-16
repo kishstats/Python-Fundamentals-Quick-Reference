@@ -43,3 +43,6 @@
 
 ### 14. Python Logging
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/14_PythonLogging.md
+
+### 15. Python Error Handling
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/15_PythonErrorHandling.md
