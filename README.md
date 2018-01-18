@@ -46,3 +46,6 @@
 
 ### 15. Python Error Handling
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/15_PythonErrorHandling.md
+
+### 16. Python Dates and Times
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/15_PythonDatesTimes.md
