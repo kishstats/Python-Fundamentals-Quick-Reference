@@ -52,3 +52,6 @@
 
 ### 17. Python Dates and Times using pytz and Arrow
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/17_PythonPytzArrow.md
+
+### 18. Python Debugging using PDB
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/18_PythonDebuggingPDB.md
