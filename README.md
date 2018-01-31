@@ -55,3 +55,6 @@
 
 ### 18. Python Debugging using PDB
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/18_PythonDebuggingPDB.md
+
+### 19. Python Command-line Arguments with Getopt
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/19_PythonGetopt.md
