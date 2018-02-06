@@ -2,7 +2,7 @@
 
 Parser for command-line options
 
-*Start and End Dates example*
+**Start and End Dates example**
 - start_date is required field
 - end_date has a default (current date) if no end date gets passed in
 ```python
@@ -23,8 +23,9 @@ print(args)  # Namespace(end_date='2001-2-2', start_date='2000-1-1')
 print(args.start_date)  # 2001-2-2
 print(args.end_date)  # 2000-1-1
 ```
+---
 
-*Add Example*
+**Add Example**
 - nargs
   - number of arguments
   - can be a fixed number or use `+` operator (to gather into a list)
@@ -59,8 +60,9 @@ print(args.accumulate(args.integers))
 # python argparse_add.py 1 2 3 4 --sum
 # returns 10
 ```
+---
 
-*Add or Multiply example*
+**Add or Multiply example**
 - uses mutually exclusive group (add or multiply)
 ```python
 import argparse
