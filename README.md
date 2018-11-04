@@ -61,3 +61,6 @@
 
 ### 20. Python Command-line Arguments with Argparse
   * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/20_PythonArgparse.md
+
+### 21. Python Random Module
+  * https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/21_PythonRandom/python_random.md
