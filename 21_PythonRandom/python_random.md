@@ -1,6 +1,6 @@
 # Python Random Module
 
-The Python random module has a variety of uses. You do many different things that include simulations, getting a random number, picking an item from a list, generating data for unit tests, and generating data for load tests. Pretty much everyone will run into a use for random data at some points.
+The Python random module has a variety of uses. You can do many different things that include simulations, getting a random number, picking an item from a list, generating data for unit tests, and generating data for load tests. Pretty much everyone will run into a use for random data at some points.
 
 ## Random Method
 
