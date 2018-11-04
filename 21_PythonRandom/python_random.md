@@ -257,3 +257,5 @@ pct 11.9%
 pct 10.5%
 
 ```
+
+Dice simulation source code: https://github.com/kishstats/Python-Fundamentals-Quick-Reference/blob/master/21_PythonRandom/python_random_dice.py
